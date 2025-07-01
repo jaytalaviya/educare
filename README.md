@@ -18,18 +18,28 @@ Developed with a user-friendly interface and built on top of a secure and scalab
 
 ## ✅ Key Features
 
-- 🧑‍🏫 Tutor & Student Registration and Login  
-- 🎓 Course Management (Upload, Edit, Delete)  
-- 🎥 Video Lecture Viewing for Enrolled Students  
-- 💬 Real-time Chat between Student and Tutor  
-- 💳 Online Payment System with Coupons  
-- 🧾 Certificate Generation after Quiz Completion  
-- ⭐ Course Rating and Feedback  
-- 📊 Revenue Tracking Dashboard  
-- 🗂️ Admin Panel for Full System Management  
-- 📁 Downloadable Study Materials  
-- 📅 Exam & Result System  
-- 📢 News & Event Posting
+👨‍🎓 Tutor/Student Registration & Login
+📚 Course Upload by Tutors
+🎥 Video Lecture Playback for Enrolled Users
+💬 Live Chat between Students and Tutors
+📋 Course Details with Category & Subcategory
+🛒 Add to Cart & Checkout Functionality
+💳 Online Payment System with Invoice Generation
+🎟️ Coupon System for Discounts (Admin & Tutor)
+🧾 Membership Plans for Tutors
+📖 Downloadable Course Materials
+🧠 Online Quizzes for Courses
+🧮 Auto Grading with Percentage & Grade
+🏆 Certificate Generation upon Course Completion
+⭐ Course Review & Rating by Users
+📊 Revenue Tracking Module for Tutors & Admin
+🗺️ Location Management (Country, State, City)
+🗂️ Admin Panel to Manage All Users, Courses & Content
+📰 Event & News Posting
+🧾 Refund Request & Management Module
+🔐 Secure Login & Password Encryption
+⚙️ Profile Editing & Password Change for Users
+📅 Lecture Scheduling and Time Tracking
 
 ---
 
